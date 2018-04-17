@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Notice Board</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+        <string name="title_activity_assists">Assists</string>
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+
+        <string name="action_settings">Settings</string>
+        <string name="title_activity_teacher">teacher</string>
+        <string name="_3rd_option">3rd Option</string>
+        <string name="my_account">My account</string>
+        <string name="assist">Assists</string>
+        <string name="create">Create</string>
+        <string name="login">Login</string>
+        <string name="password">Password</string>
+        <string name="user_name">User Name</string>
+        <string name="register_customer">Register</string>
+        <string name="phone_number">Phone Number</string>
+        <string name="select_cluster">User Type</string>
+        <string name="spinner_title">Select Type</string>
+        <string name="loading">Loading</string>
+        <string name="add_course">Add Course</string>
+        <string name="add_book">Enter Course Name</string>
+        <string name="addingcousre">Adding Course…</string>
+        <string name="register_for_a_course">Register for a Course</string>
+        <string name="opted_course">Opted Course</string>
+        <string name="logout">Logout</string>
+        <string name="course">course</string>
+        <string name="select_course">Select Course</string>
+        <string name="courses">Courses</string>
+        <string name="new_upload">new upload</string>
+        <string name="upload">Upload</string>
+        <string name="description">Add Description</string>
+        <string name="_0_people_liked_your_post">0 people liked your post</string>
+        <string name="like">Like</string>
+        <string name="add_comments">Comment</string>
+        <string name="hey_there">hey there</string>
+        <string name="profile_pic">profile pic</string>
+        <string name="comment">Comment</string>
+    </resources>
+
